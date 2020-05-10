@@ -15,7 +15,7 @@ Feel free to Pull the code and adding changes.
 
 App output here:
 
-[<img src="output.gif" height="300em" />]
+[<img src="assets/output.gif" height="300em" />]
 
 
 # Vision:
