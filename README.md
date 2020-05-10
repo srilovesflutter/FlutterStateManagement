@@ -12,6 +12,12 @@ Feel free to Pull the code and adding changes.
 2) Inherited Widget
 3) Provider 
 
+
+App output here:
+
+[<img src="output.gif" height="300em" />]
+
+
 # Vision:
 
 An App with all state management techniques into one place. Who ever want to learn, can simply review the code and understand. 
